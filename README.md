@@ -11,7 +11,7 @@ Prevent duplicate data entries and ensure data validation using Python.
 - SQLite (local database)
 
 ## 🎥 Demo Video
-📺 [Watch Demo](https://your-video-link.com)
+📺 [Watch Demo](https://drive.google.com/file/d/1PM3C7cPp25CmtWKgvZ6uVcwG3T-jfy5E/view?usp=drivesdk)
 
 ## 📁 Files
 - `redundancy_removal.py` → Python code with menu
